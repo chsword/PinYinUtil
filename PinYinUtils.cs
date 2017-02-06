@@ -3639,7 +3639,8 @@ public class PinYinUtils
         {"谯", "QIAO"},
         {"笪", "DA"},
         {"佟", "TONG"},
-        {"邹", "ZOU"}
+        {"邹", "ZOU"},
+        {"靓", "LIANG"}
     };
 
     /// <summary>
